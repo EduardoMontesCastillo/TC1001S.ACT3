@@ -1,0 +1,12 @@
+t fce3d29778128337cebcfabc5bc4ea51c3ed093b (HEAD -> ModEdu, origin/master,
+origin/HEAD, master)
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 18:19:08 2021 -0500
+
+    Modificacion codigo inicial
+
+commit 1fbe5ea005d36ca8873af51fc453efb686328f8b
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 13:42:53 2021 -0500
+
+	    Creacion de nuevo repositorio con codio original
