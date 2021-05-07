@@ -1,0 +1,63 @@
+commit 6abfd8c5adb6a005bb6442b0f3da8bcdc9a9114c (HEAD -> master, origin/master)
+Merge: dbebddc 2a48b11
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Fri May 7 09:52:57 2021 -0500
+
+    Intento de Push
+
+commit 2a48b11e3873ca7625d7ef43fb27c95eb17696c9
+Merge: 205300b 90855f4
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Fri May 7 08:48:41 2021 -0600
+
+    Merge branch 'ModEdu'
+
+commit dbebddc7e6d1359cf70ba159d89b6d48b431a53f
+Merge: cffe17f 205300b
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Fri May 7 09:41:15 2021 -0500
+
+    Merge branch 'master' of https://github.com/ToroLoco83/TC1001S.ACT3
+
+commit cffe17fb347928f84310a3db38434ab89bcb1f22 (ModRam)
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Fri May 7 09:37:51 2021 -0500
+
+    Cambio en tablero color
+
+commit 205300b46f5108d4157f9414d89e9ec97836819a
+Author: EduardoMontesCastillo
+<83718988+EduardoMontesCastillo@users.noreply.github.com>
+Date:   Thu May 6 18:47:15 2021 -0600
+
+    Create README.md
+
+commit 90855f483ed5222ee3dd83cdbcc2331d1f35d763 (origin/ModEdu)
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 18:42:12 2021 -0600
+
+    Dificultad
+
+commit eebe7b51d46333c635072147a39d2af963681e99
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 17:58:06 2021 -0600
+
+    CommitEduardo.txt
+
+commit bb0b3527ed09188f6d2601413dd422128568087c (origin/ModRam)
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 18:29:46 2021 -0500
+
+    Acelera Fantasmas
+
+commit fce3d29778128337cebcfabc5bc4ea51c3ed093b
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 18:19:08 2021 -0500
+
+    Modificacion codigo inicial
+
+commit 1fbe5ea005d36ca8873af51fc453efb686328f8b
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 13:42:53 2021 -0500
+
+    Creacion de nuevo repositorio con codio original
