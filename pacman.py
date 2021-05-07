@@ -120,7 +120,7 @@ def move():
         square(x, y)
 
     up()
-    goto(pacman.x + 10, pacman.y + 10)
+    goto(pacman.x + 20, pacman.y + 20)
     dot(20, 'yellow')
 
     for point, course in ghosts:
@@ -138,7 +138,7 @@ def move():
             course.y = plan.y
 
         up()
-        goto(point.x + 10, point.y + 10)
+        goto(point.x + 5, point.y + 5)
         dot(20, 'red')
 
     update()
