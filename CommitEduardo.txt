@@ -1,5 +1,31 @@
-t fce3d29778128337cebcfabc5bc4ea51c3ed093b (HEAD -> ModEdu, origin/master,
-origin/HEAD, master)
+t 2a48b11e3873ca7625d7ef43fb27c95eb17696c9 (HEAD -> master, origin/master,
+origin/HEAD)
+Merge: 205300b 90855f4
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Fri May 7 08:48:41 2021 -0600
+
+    Merge branch 'ModEdu'
+
+commit 205300b46f5108d4157f9414d89e9ec97836819a
+Author: EduardoMontesCastillo
+<83718988+EduardoMontesCastillo@users.noreply.github.com>
+Date:   Thu May 6 18:47:15 2021 -0600
+
+    Create README.md
+
+commit 90855f483ed5222ee3dd83cdbcc2331d1f35d763 (origin/ModEdu, ModEdu)
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 18:42:12 2021 -0600
+
+    Dificultad
+
+commit eebe7b51d46333c635072147a39d2af963681e99
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 17:58:06 2021 -0600
+
+    CommitEduardo.txt
+
+commit fce3d29778128337cebcfabc5bc4ea51c3ed093b
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 18:19:08 2021 -0500
 
@@ -9,4 +35,4 @@ commit 1fbe5ea005d36ca8873af51fc453efb686328f8b
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 13:42:53 2021 -0500
 
-	    Creacion de nuevo repositorio con codio original
+    Creacion de nuevo repositorio con codio original
